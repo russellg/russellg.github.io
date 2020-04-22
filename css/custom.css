@@ -84,8 +84,18 @@ div {
   text-shadow: 1px 1px 2px #000;
 }
 
-.what-we-do {
-  text-align: justify;
+@media (max-width: 768px) {
+  .jumbotron h1 {
+    font-size: 55px !important;
+  }
+}
+
+/*header font size for mobile*/
+@media (max-width: 525px) {
+  .jumbotron h1 {
+    font-size: 50px !important;
+    background-position: right;
+  }
 }
 
 .enrol {
