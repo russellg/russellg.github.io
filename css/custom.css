@@ -65,7 +65,7 @@ div {
 .jumbotron {
   color: white;
   background-image: linear-gradient(rgba(100, 55, 30, 1), rgba(98, 78, 32, 0.5)),
-    url(../img/hero.jpg);
+    url(../img/hero4.jpg);
   /* background-image: url("https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c"); */
   /* background-image: url(../img/hero2.jpg); */
   background-position: center;
